@@ -19,7 +19,7 @@
             "decimals": 18,
             "name": "Pangolin",
             "symbol": "PNG",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
         },
         {
             "chainId": 43114,
@@ -27,7 +27,7 @@
             "decimals": 18,
             "name": "Avaware",
             "symbol": "AVE",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png"
         },
         {
             "chainId": 43114,
@@ -171,7 +171,7 @@
             "decimals": 18,
             "name": "Weble Ecosystem Token",
             "symbol": "WET",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png"
         },
         {
             "chainId": 43114,
@@ -179,7 +179,7 @@
             "decimals": 18,
             "name": "Yak Token",
             "symbol": "YAK",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png"
         },
         {
             "chainId": 43114,
@@ -187,7 +187,7 @@
             "decimals": 18,
             "name": "BENQI",
             "symbol": "QI",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png"
         },
         {
             "chainId": 43114,
@@ -195,7 +195,7 @@
             "decimals": 18,
             "name": "Wrapped AllianceBlock Token",
             "symbol": "WALBT",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd/logo.png"
         },
         {
             "chainId": 43114,
@@ -203,7 +203,7 @@
             "decimals": 18,
             "name": "TundraToken",
             "symbol": "TUNDRA",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png"
         },
         {
             "chainId": 43114,
@@ -211,7 +211,7 @@
             "decimals": 18,
             "name": "Gaj Finance",
             "symbol": "GAJ",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png"
         },
         {
             "chainId": 43114,
@@ -219,7 +219,7 @@
             "decimals": 18,
             "name": "TEDDY",
             "symbol": "TEDDY",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png"
         },
         {
             "chainId": 43114,
@@ -227,7 +227,7 @@
             "decimals": 18,
             "name": "JoeToken",
             "symbol": "JOE",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
         },
         {
             "chainId": 43114,
@@ -235,7 +235,7 @@
             "decimals": 18,
             "name": "MarginSwap",
             "symbol": "MFI",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0/logo.png"
         },
         {
             "chainId": 43114,
@@ -243,7 +243,7 @@
             "decimals": 18,
             "name": "SHIBAVAX",
             "symbol": "SHIBX",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png"
         },
         {
             "chainId": 43114,
@@ -251,7 +251,7 @@
             "decimals": 18,
             "name": "Frax Share",
             "symbol": "FXS",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png"
         },
         {
             "chainId": 43114,
@@ -259,7 +259,7 @@
             "decimals": 18,
             "name": "Blue Token",
             "symbol": "BLUE",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png"
         },
         {
             "chainId": 43114,
@@ -267,7 +267,7 @@
             "decimals": 18,
             "name": "YAY Games",
             "symbol": "YAY",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa/logo.png"
         },
         {
             "chainId": 43114,
@@ -275,7 +275,7 @@
             "decimals": 6,
             "name": "Avaxtars Token",
             "symbol": "AVXT",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo.png"
         },
         {
             "chainId": 43114,
@@ -283,7 +283,7 @@
             "decimals": 8,
             "name": "TOK",
             "symbol": "TOK",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347/logo.png"
         },
         {
             "chainId": 43114,
@@ -291,7 +291,7 @@
             "decimals": 9,
             "name": "Time",
             "symbol": "TIME",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xb54f16fB19478766A268F172C9480f8da1a7c9C3/logo.png"
         },
         {
             "chainId": 43114,
@@ -299,7 +299,7 @@
             "decimals": 9,
             "name": "Good Bridging",
             "symbol": "GB",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo.png"
         },
         {
             "chainId": 43114,
@@ -307,7 +307,7 @@
             "decimals": 18,
             "name": "OpenOcean",
             "symbol": "OOE",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0ebd9537A25f56713E34c45b38F421A1e7191469/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x0ebd9537A25f56713E34c45b38F421A1e7191469/logo.png"
         },
         {
             "chainId": 43114,
@@ -315,7 +315,7 @@
             "decimals": 18,
             "name": "Vee",
             "symbol": "VEE",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3709E8615E02C15B096f8a9B460ccb8cA8194e86/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x3709E8615E02C15B096f8a9B460ccb8cA8194e86/logo.png"
         },
         {
             "chainId": 43114,
@@ -323,7 +323,7 @@
             "decimals": 18,
             "name": "Ape In",
             "symbol": "APEIN",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png"
         },
         {
             "chainId": 43114,
@@ -331,7 +331,7 @@
             "decimals": 18,
             "name": "Iron Finance ICE Token",
             "symbol": "IronICE",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfC108f21931576a21D0b4b301935DAc80d9E5086/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xfC108f21931576a21D0b4b301935DAc80d9E5086/logo.png"
         },
         {
             "chainId": 43114,
@@ -339,7 +339,7 @@
             "decimals": 18,
             "name": "WOWSwap",
             "symbol": "WOW",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b/logo.png"
         },
         {
             "chainId": 43114,
@@ -347,7 +347,7 @@
             "decimals": 18,
             "name": "Spell Token",
             "symbol": "SPELL",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png"
         },
         {
           "chainId": 43114,
@@ -355,7 +355,7 @@
           "decimals": 18,
           "name": "Kalao Token",
           "symbol": "KLO",
-          "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35/logo.png"
+          "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35/logo.png"
         },
         {
           "chainId": 43114,
@@ -363,7 +363,7 @@
           "decimals": 9,
           "name": "Ampleforth",
           "symbol": "AMPL",
-          "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x027dbcA046ca156De9622cD1e2D907d375e53aa7/logo.png"
+          "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x027dbcA046ca156De9622cD1e2D907d375e53aa7/logo.png"
         },
         {
           "chainId": 43114,
@@ -371,7 +371,7 @@
           "decimals": 18,
           "name": "OrcaDAO",
           "symbol": "ORCA",
-          "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo.png"
+          "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo.png"
         },
         {
             "chainId": 43114,
@@ -379,7 +379,7 @@
             "decimals": 18,
             "name": "INSUR Token",
             "symbol": "INSUR",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png"
         },
         {
             "chainId": 43114,
@@ -387,7 +387,7 @@
             "decimals": 18,
             "name": "Ankr Avalanche Reward Earning Bond",
             "symbol": "aAVAXb",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo.png"
         },
         {
             "chainId": 43114,
@@ -403,7 +403,7 @@
             "decimals": 18,
             "name": "Hurricane Token",
             "symbol": "HCT",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x45C13620B55C35A5f539d26E88247011Eb10fDbd/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x45C13620B55C35A5f539d26E88247011Eb10fDbd/logo.png"
         },
         {
             "chainId": 43114,
@@ -411,7 +411,7 @@
             "decimals": 18,
             "name": "Frax Share",
             "symbol": "FXS",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x214DB107654fF987AD859F34125307783fC8e387/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x214DB107654fF987AD859F34125307783fC8e387/logo.png"
         },
         {
             "chainId": 43114,
@@ -419,7 +419,7 @@
             "decimals": 18,
             "name": "ROCO",
             "symbol": "ROCO",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo.png"
         },
         {
             "chainId": 43114,
@@ -427,7 +427,7 @@
             "decimals": 18,
             "name": "IMX",
             "symbol": "IMX.a",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef/logo.png"
         },
         {
             "chainId": 43114,
@@ -435,7 +435,7 @@
             "decimals": 18,
             "name": "Orbs",
             "symbol": "ORBS",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A/logo.png"
         },
         {
             "chainId": 43114,
@@ -443,7 +443,7 @@
             "decimals": 18,
             "name": "CRA",
             "symbol": "CRA",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed/logo.png"
         },
         {
             "chainId": 43114,
@@ -451,7 +451,7 @@
             "decimals": 18,
             "name": "Maximus",
             "symbol": "MAXI",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x885d748C00A279B67A7749EC6b03301700dd0455/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x885d748C00A279B67A7749EC6b03301700dd0455/logo.png"
         },
         {
             "chainId": 43114,
@@ -459,7 +459,7 @@
             "decimals": 9,
             "name": "Maximizer",
             "symbol": "MAXI",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo.png"
         },
         {
             "chainId": 43114,
@@ -467,7 +467,7 @@
             "decimals": 18,
             "name": "Jewels",
             "symbol": "JEWEL",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png"
         },
         {
             "chainId": 43114,
@@ -475,7 +475,7 @@
             "decimals": 18,
             "name": "CRAFT",
             "symbol": "CRAFT",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2/logo.png"
         },
         {
             "chainId": 43114,
@@ -483,7 +483,7 @@
             "decimals": 18,
             "name": "Governance OHM",
             "symbol": "gOHM",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x321E7092a180BB43555132ec53AaA65a5bF84251/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x321E7092a180BB43555132ec53AaA65a5bF84251/logo.png"
         },
         {
             "chainId": 43114,
@@ -491,7 +491,7 @@
             "decimals": 18,
             "name": "Poly-Peg COOK",
             "symbol": "COOK",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png"
         },
         {
             "chainId": 43114,
@@ -499,7 +499,7 @@
             "decimals": 18,
             "name": "NFTrade Token",
             "symbol": "NFTD",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF/logo.png"
         },
         {
             "chainId": 43114,
@@ -507,7 +507,7 @@
             "decimals": 18,
             "name": "Colony Token",
             "symbol": "CLY",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6/logo.png"
         },
         {
             "chainId": 43114,
@@ -515,7 +515,7 @@
             "decimals": 6,
             "name": "NFTSoccerGames",
             "symbol": "NFSG",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf69c2fcd9128d49DfA22348C69177f9380438eB8/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xf69c2fcd9128d49DfA22348C69177f9380438eB8/logo.png"
         },
         {
             "chainId": 43114,
@@ -523,7 +523,7 @@
             "decimals": 18,
             "name": "Skill Token",
             "symbol": "SKILL",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb/logo.png"
         },
         {
             "chainId": 43114,
@@ -531,7 +531,7 @@
             "decimals": 18,
             "name": "iDeFiYieldProtocol",
             "symbol": "iDYP",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xBD100d061E120b2c67A24453CF6368E63f1Be056/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xBD100d061E120b2c67A24453CF6368E63f1Be056/logo.png"
         },
         {
             "chainId": 43114,
@@ -539,7 +539,7 @@
             "decimals": 18,
             "name": "Platypus",
             "symbol": "PTP",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x22d4002028f537599bE9f666d1c4Fa138522f9c8/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x22d4002028f537599bE9f666d1c4Fa138522f9c8/logo.png"
         },
         {
             "chainId": 43114,
@@ -547,7 +547,7 @@
             "decimals": 6,
             "name": "BiAltin",
             "symbol": "GLDB",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED/logo.png"
         },
         {
             "chainId": 43114,
@@ -555,7 +555,7 @@
             "decimals": 18,
             "name": "RaceX",
             "symbol": "RACEX",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo.png"
         },
         {
             "chainId": 43114,
@@ -563,7 +563,7 @@
             "decimals": 18,
             "name": "Tomb",
             "symbol": "TOMB",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo.png"
         },
         {
             "chainId": 43114,
@@ -571,7 +571,7 @@
             "decimals": 18,
             "name": "Kitty",
             "symbol": "KITTY",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbca7f1998Dc9FFB70b086543a808960a460aBcA7/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xbca7f1998Dc9FFB70b086543a808960a460aBcA7/logo.png"
         },
         {
             "chainId": 43114,
@@ -579,7 +579,7 @@
             "decimals": 18,
             "name": "MilkyWay Token by SpaceSwap v2",
             "symbol": "MILK2",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09/logo.png"
         },
         {
             "chainId": 43114,
@@ -587,7 +587,7 @@
             "decimals": 18,
             "name": "SHAKE token by SpaceSwap v2",
             "symbol": "SHAKE",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2/logo.png"
         },
         {
             "chainId": 43114,
@@ -595,7 +595,7 @@
             "decimals": 18,
             "name": "Defrost Finance Token",
             "symbol": "MELT",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo.png"
         },
         {
             "chainId": 43114,
@@ -603,7 +603,7 @@
             "decimals": 18,
             "name": "IceToken",
             "symbol": "ICE",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo.png"
         },
         {
             "chainId": 43114,
@@ -611,7 +611,7 @@
             "decimals": 18,
             "name": "Treasure Under Sea",
             "symbol": "TUS",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172/logo.png"
         },
         {
             "chainId": 43114,
@@ -619,7 +619,7 @@
             "decimals": 18,
             "name": "Imperium Empires Token",
             "symbol": "IME",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6/logo.png"
         },
         {
             "chainId": 43114,
@@ -627,7 +627,7 @@
             "decimals": 18,
             "name": "HERMES",
             "symbol": "HERMES",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo.png"
         },
         {
             "chainId": 43114,
@@ -635,7 +635,7 @@
             "decimals": 18,
             "name": "HERMES Shares",
             "symbol": "HSHARES",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2/logo.png"
         },
         {
             "chainId": 43114,
@@ -643,7 +643,7 @@
             "decimals": 18,
             "name": "Dogeon Token",
             "symbol": "DON",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7/logo.png"
         },
         {
             "chainId": 43114,
@@ -651,7 +651,7 @@
             "decimals": 18,
             "name": "Islander",
             "symbol": "ISA",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x3EeFb18003D033661f84e48360eBeCD181A84709/logo.png"
         },
         {
             "chainId": 43114,
@@ -659,7 +659,7 @@
             "decimals": 18,
             "name": "LOOT",
             "symbol": "LOOT",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7f041ce89A2079873693207653b24C15B5e6A293/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x7f041ce89A2079873693207653b24C15B5e6A293/logo.png"
         },
         {
             "chainId": 43114,
@@ -667,7 +667,7 @@
             "decimals": 18,
             "name": "ANGLE",
             "symbol": "ANGLE",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xE6B9d092223f39013656702A40dbE6B7DeCc5746/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xE6B9d092223f39013656702A40dbE6B7DeCc5746/logo.png"
         },
         {
             "chainId": 43114,
@@ -675,7 +675,7 @@
             "decimals": 18,
             "name": "MetaBrands",
             "symbol": "MAGE",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A/logo.png"
         },
         {
             "chainId": 43114,
@@ -683,7 +683,7 @@
             "decimals": 18,
             "name": "Hertz Token",
             "symbol": "HTZ",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269/logo.png"
         },
         {
             "chainId": 43114,
@@ -691,7 +691,7 @@
             "decimals": 18,
             "name": "Hoopoe Ventures",
             "symbol": "HOOP",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE/logo.png"
         },
         {
             "chainId": 43114,
@@ -699,7 +699,7 @@
             "decimals": 18,
             "name": "HeroesChained",
             "symbol": "HeC",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c/logo.png"
         },
         {
             "chainId": 43114,
@@ -707,7 +707,7 @@
             "decimals": 18,
             "name": "Pollen",
             "symbol": "PLN",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png"
         },
         {
             "chainId": 43114,
@@ -715,7 +715,7 @@
             "decimals": 18,
             "name": "chikn egg",
             "symbol": "EGG",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611/logo.png"
         },
         {
             "chainId": 43114,
@@ -723,7 +723,7 @@
             "decimals": 18,
             "name": "chikn feed",
             "symbol": "FEED",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png"
         },
         {
             "chainId": 43114,
@@ -731,7 +731,7 @@
             "decimals": 18,
             "name": "Dragon Crypto Aurum",
             "symbol": "DCAU",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png"
         },
         {
             "chainId": 43114,
@@ -739,7 +739,7 @@
             "decimals": 6,
             "name": "Axelar Wrapped LUNA",
             "symbol": "LUNA",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo.png"
         },
         {
             "chainId": 43114,
@@ -747,7 +747,7 @@
             "decimals": 18,
             "name": "Kassandra",
             "symbol": "KACY",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44/logo.png"
         },
         {
             "chainId": 43114,
@@ -755,7 +755,7 @@
             "decimals": 18,
             "name": "Catoshi",
             "symbol": "CATS",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d/logo.png"
         },
         {
             "chainId": 43114,
@@ -763,7 +763,7 @@
             "decimals": 18,
             "name": "ArgonToken",
             "symbol": "ARGON",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12/logo.png"
         },
         {
             "chainId": 43114,
@@ -771,7 +771,7 @@
             "decimals": 6,
             "name": "DGC Token",
             "symbol": "DGC",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7F29e7086453ed97283893E763aE0989F4B70f8d/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x7F29e7086453ed97283893E763aE0989F4B70f8d/logo.png"
         },
         {
             "chainId": 43114,
@@ -779,7 +779,7 @@
             "decimals": 6,
             "name": "ENXT Token",
             "symbol": "ENXT",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f/logo.png"
         },
         {
             "chainId": 43114,
@@ -787,7 +787,7 @@
             "decimals": 18,
             "name": "Akitavax",
             "symbol": "AKITAX",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xE06fba763C2104dB5027F57f6A5Be0a0D86308af/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xE06fba763C2104dB5027F57f6A5Be0a0D86308af/logo.png"
         },
         {
             "chainId": 43114,
@@ -795,7 +795,7 @@
             "decimals": 18,
             "name": "YDragon",
             "symbol": "YDR",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356/logo.png"
         },
         {
             "chainId": 43114,
@@ -803,7 +803,7 @@
             "decimals": 18,
             "name": "HonToken",
             "symbol": "HON",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB/logo.png"
         },
         {
             "chainId": 43114,
@@ -811,7 +811,7 @@
             "decimals": 18,
             "name": "More Token",
             "symbol": "MORE",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xd9D90f882CDdD6063959A9d837B05Cb748718A05/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xd9D90f882CDdD6063959A9d837B05Cb748718A05/logo.png"
         },
         {
             "chainId": 43114,
@@ -819,7 +819,7 @@
             "decimals": 12,
             "name": "SwapXI Token",
             "symbol": "SWAPXI",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2/logo.png"
         },
         {
             "chainId": 43114,
@@ -827,7 +827,7 @@
             "decimals": 18,
             "name": "FIRE",
             "symbol": "FIRE",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5/logo.png"
         },
         {
             "chainId": 43114,
@@ -835,7 +835,7 @@
             "decimals": 18,
             "name": "BRIBE",
             "symbol": "BRIBE",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo.png"
         },
         {
             "chainId": 43114,
@@ -843,7 +843,7 @@
             "decimals": 18,
             "name": "BavaToken",
             "symbol": "BAVA",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo.png"
         },
         {
             "chainId": 43114,
@@ -851,7 +851,7 @@
             "decimals": 18,
             "name": "Arable Protocol",
             "symbol": "ACRE",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x00EE200Df31b869a321B10400Da10b561F3ee60d/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x00EE200Df31b869a321B10400Da10b561F3ee60d/logo.png"
         },
         {
             "chainId": 43114,
@@ -859,7 +859,7 @@
             "decimals": 18,
             "name": "Staked AVAX",
             "symbol": "sAVAX",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png"
         },
         {
             "chainId": 43114,
@@ -867,7 +867,7 @@
             "decimals": 18,
             "name": "DefiLaunch Token",
             "symbol": "DLAUNCH",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo.png"
         },
         {
             "chainId": 43114,
@@ -875,7 +875,7 @@
             "decimals": 18,
             "name": "Augmented Finance",
             "symbol": "AGF",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3/logo.png"
         },
         {
             "chainId": 43114,
@@ -883,7 +883,7 @@
             "decimals": 18,
             "name": "OddzToken",
             "symbol": "ODDZ",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo.png"
         },
         {
             "chainId": 43114,
@@ -891,7 +891,7 @@
             "decimals": 18,
             "name": "KING",
             "symbol": "KING",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf3EC49ACb3084618121741e4BBB20996D383E9b2/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xf3EC49ACb3084618121741e4BBB20996D383E9b2/logo.png"
         },
         {
             "chainId": 43114,
@@ -899,7 +899,7 @@
             "decimals": 18,
             "name": "King Shares",
             "symbol": "KSHARE",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo.png"
         },
         {
             "chainId": 43114,
@@ -907,7 +907,7 @@
             "decimals": 18,
             "name": "RICH",
             "symbol": "RICH",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4960bc6032351ab87627B8F36b37B4938A44C7eF/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x4960bc6032351ab87627B8F36b37B4938A44C7eF/logo.png"
         },
         {
             "chainId": 43114,
@@ -915,7 +915,7 @@
             "decimals": 18,
             "name": "ZeroSwapToken",
             "symbol": "ZEE",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x44754455564474A89358B2C2265883DF993b12F0/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x44754455564474A89358B2C2265883DF993b12F0/logo.png"
         },
         {
             "chainId": 43114,
@@ -923,7 +923,7 @@
             "decimals": 18,
             "name": "DEAPCOIN",
             "symbol": "DEP",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1/logo.png"
         }
     ]
 }
