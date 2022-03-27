@@ -34,7 +34,7 @@
             "decimals": 18,
             "name": "TrueUSD",
             "symbol": "TUSD",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB/logo.png"
         },
         {
             "chainId": 43114,
@@ -50,7 +50,7 @@
             "decimals": 18,
             "name": "Frax - Anyswap",
             "symbol": "FRAX",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/logo.png"
         },
         {
             "chainId": 43114,
@@ -58,7 +58,7 @@
             "decimals": 6,
             "name": "BiLira",
             "symbol": "TRYB",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x564A341Df6C126f90cf3ECB92120FD7190ACb401/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x564A341Df6C126f90cf3ECB92120FD7190ACb401/logo.png"
         },
         {
             "chainId": 43114,
@@ -74,7 +74,7 @@
             "name": "TSD",
             "symbol": "TSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png"
         },
         {
             "address": "0x3509f19581aFEDEff07c53592bc0Ca84e4855475",
@@ -90,7 +90,7 @@
             "name": "Magic Internet Money",
             "symbol": "MIM",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
         },
         {
             "address": "0x783C08b5F26E3daf8C4681F3bf49844e425b6393",
@@ -98,7 +98,7 @@
             "name": "Avaware USD",
             "symbol": "AUSD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo.png"
         },
         {
             "address": "0x346A59146b9b4a77100D369a3d18E8007A9F46a6",
@@ -106,7 +106,7 @@
             "name": "AVAI",
             "symbol": "AVAI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png"
         },
         {
             "chainId": 43114,
@@ -114,7 +114,7 @@
             "decimals": 18,
             "name": "Frax",
             "symbol": "FRAX",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png"
         },
         {
             "chainId": 43114,
@@ -122,7 +122,7 @@
             "decimals": 18,
             "name": "Stabilize USD",
             "symbol": "SUSD",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D/logo.png"
         },
         {
             "chainId": 43114,
@@ -130,7 +130,7 @@
             "decimals": 18,
             "name": "miMatic",
             "symbol": "MAI",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png"
         },
         {
             "chainId": 43114,
@@ -138,7 +138,7 @@
             "decimals": 18,
             "name": "Defrost Finance H2O",
             "symbol": "H2O",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo.png"
         },
         {
             "chainId": 43114,
@@ -146,7 +146,7 @@
             "decimals": 6,
             "name": "USD Coin",
             "symbol": "USDC",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
         },
         {
             "chainId": 43114,
@@ -154,7 +154,7 @@
             "decimals": 18,
             "name": "agEUR",
             "symbol": "AGEUR",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6feFd97F328342a8A840546A55FDcfEe7542F9A8/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x6feFd97F328342a8A840546A55FDcfEe7542F9A8/logo.png"
         },
         {
             "chainId": 43114,
@@ -162,7 +162,7 @@
             "decimals": 6,
             "name": "Axelar Wrapped UST",
             "symbol": "UST",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png"
         },
         {
             "chainId": 43114,
@@ -170,7 +170,7 @@
             "decimals": 6,
             "name": "TetherToken",
             "symbol": "USDT",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
         },
         {
             "chainId": 43114,
@@ -178,7 +178,7 @@
             "decimals": 18,
             "name": "Moremoney USD",
             "symbol": "MONEY",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png"
         }
     ]
 }
