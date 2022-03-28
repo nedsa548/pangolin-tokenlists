@@ -3,8 +3,8 @@
 ### General Requirements
 1. Token should be verified on the [Snowtrace Explorer](https://snowtrace.io/verifyContract).
 2. Token must be added to a list that it qualifies for:
-    * **[Pangolin Tokenlist](./pangolin.tokenlist.json)**: Token must be on the Avalanche network.
-    * **[Fuji Tokenlist](./fuji.tokenlist.json)**: Token must be on the Fuji network.
+    * **[Pangolin Tokenlist](tokenlists/pangolin.tokenlist.json)**: Token must be on the Avalanche network.
+    * **[Fuji Tokenlist](tokenlists/fuji.tokenlist.json)**: Token must be on the Fuji network.
 
 ## How to Add Your Token
 1. Add an entry in the `pangolin-tokenlists` field of the appropriate tokenlist. Please use the [checksum address](https://docs.ethers.io/v5/api/utils/address/#address). Here is an example using PNG:
@@ -15,7 +15,7 @@
       "decimals": 18,
       "name": "Pangolin",
       "symbol": "PNG",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/pangolin-tokenlists/main/logos/0x60781C2586D68229fde47564546784ab3fACA982/logo_24.png"
     }
     ```
 2. Update the `timestamp` field to the current timestamp.
@@ -29,7 +29,7 @@
 
 ## Adding Your Token Logo
 
-Token logos are stored according to their Avalanche address under the `assets/` directory. 
+Token logos are stored according to their Avalanche address under the `logos/` directory. 
 Token images are stored in the format `<token-address>/logo_24.png` and `<token-address>/logo_48.png`.
 
 ### General Requirements
@@ -45,7 +45,7 @@ Token images are stored in the format `<token-address>/logo_24.png` and `<token-
 ```
 ├─ pangolin-tokenlists/
 │
-└─┬─ assets/
+└─┬─ logos/
   │
   ├─┬─ 0x60781C2586D68229fde47564546784ab3fACA982/
   │ ├── logo_24.png
