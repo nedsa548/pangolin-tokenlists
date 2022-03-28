@@ -1,8 +1,11 @@
 {
+  "name": "@pangolindex/pangolin-tokenlists",
+  "version": "0.0.1",
   "scripts": {
     "format": "node format.mjs"
   },
+  "license": "MIT",
   "devDependencies": {
-    "@ethersproject/address": "5.4.0"
+    "@ethersproject/address": "5.6.0"
   }
 }
